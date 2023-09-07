@@ -6,3 +6,5 @@
 
 ### activity 2 screenshot 
 ![Merge from develop to main of hello world](mergescreenshot.png)
+
+### random commit addition 1 
