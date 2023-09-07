@@ -13,3 +13,8 @@
 
 ### activity 4 screenshot 
 ![Merge of unit tests](mergeunittests.png)
+
+### activity 5 screenshot
+![merge3/4 on develop](merge34.png)
+![merge1/2 on rebase](merge12.png)
+![merge sequence after rebase](rebase.png)
